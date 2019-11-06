@@ -50,6 +50,6 @@ collections: # A list of collections the CMS should be able to edit
             options:
               - { label: "Google Plus", value: "google-plus" }
               - { label: "Facebook", value: "facebook" }
-              - { label: "Twitter", value: "twitter" }genderless
+              - { label: "Twitter", value: "twitter" }
               - { label: "Stack Overflow", value: "stack-overflow" }
               - { label: "Genderless", value: "genderless" }
