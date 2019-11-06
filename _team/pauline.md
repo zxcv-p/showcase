@@ -3,9 +3,9 @@ name: Pauline V
 position: Designeuse
 pic: /img/uploads/2.jpg
 social:
-  - title: intersex
+  - title: linkedin
     url: 'https://perdu.com'
-  - title: transgender
+  - title: pinterest
     url: 'https://perdu.com'
 ---
 
