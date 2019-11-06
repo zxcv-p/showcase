@@ -41,9 +41,6 @@ collections: # A list of collections the CMS should be able to edit
         name: "social"
         widget: "list"
         fields:
-          - {label: "Name", name: "name", widget: string, default: "Emmet"}
-          - {label: "Align Content", name: "align", widget: "select", options: ["left", "center", "right"]}
-          - {label: "url", name: "url", widget: string, required: true}
           - label: "Title"
             name: "title"
             widget: "select"
@@ -52,4 +49,8 @@ collections: # A list of collections the CMS should be able to edit
               - { label: "Facebook", value: "facebook" }
               - { label: "Twitter", value: "twitter" }
               - { label: "Stack Overflow", value: "stack-overflow" }
-              - { label: "Genderless", value: "genderless" }
+              - { label: "Transgender", value: "transgender" }
+              - { label: "Intersex", value: "intersex" }
+              - { label: "Pinterest", value: "pinterest" }
+              - { label: "Linkedin", value: "linkedin" }
+          - {label: "url", name: "url", widget: string, required: true}
