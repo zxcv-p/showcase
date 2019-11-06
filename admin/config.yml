@@ -31,7 +31,7 @@ collections: # A list of collections the CMS should be able to edit
     folder: "_team" # The path to the folder where the documents are stored
     sort: "name:asc" # Default is title:asc
     create: true # Allow users to create new documents in this collection
-    slug: "team-member-{{slug}}"
+    slug: "{{slug}}"
     identifier_field: name
     fields: # The fields each document in this collection have
       - {label: "Name", name: "name", widget: "string", tagname: "h1"}
