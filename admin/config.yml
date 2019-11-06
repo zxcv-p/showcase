@@ -32,6 +32,7 @@ collections: # A list of collections the CMS should be able to edit
     sort: "name:asc" # Default is title:asc
     create: true # Allow users to create new documents in this collection
     slug: "team-member-{{slug}}"
+    identifier_field: name
     fields: # The fields each document in this collection have
       - {label: "Name", name: "name", widget: "string", tagname: "h1"}
       - {label: "Position", name: "position", widget: "string", tagname: "h2"}
