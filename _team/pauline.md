@@ -1,7 +1,7 @@
 ---
-name: Pauline V
-position: Designeuse
-pic: /img/uploads/2.jpg
+name: Pauline
+position: 'Design, architecture du site'
+pic: /img/uploads/01pp041.png
 social:
   - title: linkedin
     url: 'https://perdu.com'
