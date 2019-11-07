@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/577b0e8d-ba58-4214-9d37-75d6a7b5f18d/deploy-status)](https://app.netlify.com/sites/musing-bhaskara-00bac8/deploys)
+
 Agency Jekyll theme
 ====================
 
