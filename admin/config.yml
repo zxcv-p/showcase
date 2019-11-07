@@ -21,7 +21,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Alt", name: "alt", widget: "hidden", default: "image-alt"}
       - {label: "Project date", name: "project-date", widget: "datetime", format: "MMMM YYYY"}
       - {label: "Client", name: "client", widget: "hidden", default: "Start Bootstrap"}
-      - {label: "Service", name: "category", widget: "string", required: false}
+      - {label: "Service", name: "service", widget: "string", required: false}
       - {label: "Description", name: "description", widget: "markdown"}
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
