@@ -1,6 +1,6 @@
 ---
 name: Pauline
-position: 'Design, architecture du site'
+position: 'design, architecture du site'
 pic: /img/uploads/01pp041.png
 social:
   - title: linkedin
