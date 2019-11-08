@@ -10,7 +10,7 @@ collections: # A list of collections the CMS should be able to edit
     folder: "_posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    summary: "{{order}}\t- {{title}} | {{subtitle}}"
+    summary: "{{order}} - {{title}} | {{subtitle}}"
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Subtitle", name: "subtitle", widget: "string", tagname: "h3"}
@@ -32,9 +32,11 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
     identifier_field: name
+    summary: "{{order}} - {{name}} | {{position}}"
     fields: # The fields each document in this collection have
       - {label: "Name", name: "name", widget: "string", tagname: "h1"}
       - {label: "Position", name: "position", widget: "string", tagname: "h2"}
+      - {label: "Order", name: "order", widget: "number", valueType: "int", default: 1}
       - {label: "Picture", name: "pic", widget: "image"}
       - label: "Social"
         name: "social"

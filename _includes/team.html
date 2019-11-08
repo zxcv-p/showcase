@@ -9,7 +9,8 @@
             </div>
             <div class="row">
               <div class="col-lg-offset-2">
-                {% for member in site.team %}
+              {% assign members = site.team | sort: 'order' %}
+                {% for member in members %}
                 <div class="col-sm-5">
                     <div class="team-member">
                         <img src="{{ member.pic }}" class="img-responsive img-circle" alt="">
