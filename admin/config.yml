@@ -15,7 +15,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Subtitle", name: "subtitle", widget: "string", tagname: "h3"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
-      - {label: "Order", name: "modal-id", widget: "number", valueType: "int", default: 1}
+      - {label: "Order", name: "order", widget: "number", valueType: "int", default: 1}
       - {label: "Image", name: "img", widget: "image"}
       - {label: "Thumbnail", name: "thumbnail", widget: "image"}
       - {label: "Alt", name: "alt", widget: "hidden", default: "image-alt"}
