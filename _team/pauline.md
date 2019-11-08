@@ -1,7 +1,7 @@
 ---
 name: Pauline
 position: 'design, architecture du site'
-pic: /img/uploads/01pp031.png
+pic: /img/uploads/01pp032.png
 social:
   - title: linkedin
     url: 'https://perdu.com'
