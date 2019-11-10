@@ -70,3 +70,16 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "Shopping Cart", value: "shopping-cart" }
           - { label: "Laptop", value: "laptop" }
           - { label: "Lock", value: "lock" }
+
+  - name: "stories" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Stories" # Used in the UI, ie.: "New Post"
+    folder: "_stories" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}"
+    summary: "{{order}} - {{title}} | {{subtitle}}"
+    fields: # The fields each document in this collection have
+      - {label: "Date", name: "title-date", widget: "string", tagname: "h1"}
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Description", name: "description", widget: "markdown"}
+      - {label: "Order", name: "order", widget: "number", valueType: "int", default: 1}
+      - {label: "Image", name: "image", widget: "image"}
