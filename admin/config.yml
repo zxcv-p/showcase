@@ -55,7 +55,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "url", name: "url", widget: string, required: true}
 
   - name: "services" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Fonctionement (?)" # Used in the UI, ie.: "New Post"
+    label: "Services" # Used in the UI, ie.: "New Post"
     folder: "_services" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
