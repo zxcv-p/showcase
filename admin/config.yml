@@ -53,3 +53,20 @@ collections: # A list of collections the CMS should be able to edit
               - { label: "Pinterest", value: "pinterest" }
               - { label: "Linkedin", value: "linkedin" }
           - {label: "url", name: "url", widget: string, required: true}
+
+  - name: "services" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Fonctionement (?)" # Used in the UI, ie.: "New Post"
+    folder: "_services" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}"
+    summary: "{{order}} - {{title}}"
+    fields: # The fields each document in this collection have
+      - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Description", name: "description", widget: "string", tagname: "h2"}
+      - label: "Icon"
+        name: "icon"
+        widget: "select"
+        options:
+          - { label: "Shopping Cart", value: "shopping-cart" }
+          - { label: "Laptop", value: "laptop" }
+          - { label: "Lock", value: "lock" }

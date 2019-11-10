@@ -9,6 +9,7 @@ description: "Write an awesome description for your new site here. You can edit 
 # Collections
 collections:
   - team
+  - services
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
