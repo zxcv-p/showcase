@@ -10,7 +10,7 @@ collections: # A list of collections the CMS should be able to edit
     folder: "_settings" # The path to the folder where the documents are stored
     create: false # Allow users to create new documents in this collection
     slug: "{{slug}}"
-    summary: "{{label}}"
+    summary: "Settings"
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "hidden", default: "settings"}
       - {label: "Display Portfolio", name: "display-portfolio", widget: "boolean"}
