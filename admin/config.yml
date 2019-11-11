@@ -18,7 +18,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Display Clients", name: "display-clients", widget: "boolean"}
       - label: "Theme Color"
         name: "color"
-        widget: "color"
+        widget: "ColorControl"
         format: 'hsl'
         presets: ['red', 'green', 'blue']
         alpha: false
