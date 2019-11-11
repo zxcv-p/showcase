@@ -9,10 +9,14 @@
     {% include header.html %}
     {% include services.html %}
     {% include pricing.html %}
-    {% include portfolio_grid.html %}
+    {% if site.settings.first.display-portfolio %}
+        {% include portfolio_grid.html %}
+    {% endif %}
     {% include about.html %}
     {% include team.html %}
-    {% comment %} {% include clients.html %} {% endcomment %}
+    {% if site.settings.first.diplay-clients %}
+    {% include clients.html %}
+    {% endif %}
     {% include contact.html %}
     {% include footer.html %}
     {% include modals.html %}

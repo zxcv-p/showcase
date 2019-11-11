@@ -61,12 +61,16 @@ h6 {
     margin: 0 auto;
 }
 
-.bg-light-gray {
+.bg-light-gray-1 {
     background-color: #f7f7f7;
 }
 
-.bg-dark-light-gray {
-    background-color: #f0f0f0;
+.bg-light-gray-2 {
+    background-color: #f4f4f4;
+}
+
+.bg-light-gray-3 {
+    background-color: #F0F0F0;
 }
 
 .bg-darkest-gray {
