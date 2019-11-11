@@ -19,7 +19,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "color"
         widget: "color"
         format: 'hsl'
-        presets: ['red', 'green', 'blue']'
+        presets: ['red', 'green', 'blue']
         alpha: false
 
   - name: "portfolio" # Used in routes, ie.: /admin/collections/:slug/edit
