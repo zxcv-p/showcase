@@ -12,7 +12,6 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{slug}}"
     summary: "{{label}}"
     fields: # The fields each document in this collection have
-    diplay-clients: true
       - {label: "Title", name: "title", widget: "hidden", default: "settings"}
       - {label: "Display Portfolio", name: "display-portfolio", widget: "boolean"}
       - {label: "Display Clients", name: "display-clients", widget: "boolean"}
