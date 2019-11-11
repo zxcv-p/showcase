@@ -745,6 +745,10 @@ footer span.copyright {
     line-height: 40px;
 }
 
+footer .contact {
+    line-height: 40px;
+}
+
 footer ul.quicklinks {
     margin-bottom: 0;
     text-transform: uppercase;
