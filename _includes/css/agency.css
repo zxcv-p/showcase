@@ -65,6 +65,10 @@ h6 {
     background-color: #f7f7f7;
 }
 
+.bg-dark-light-gray {
+    background-color: #f0f0f0;
+}
+
 .bg-darkest-gray {
     background-color: #222;
 }
@@ -352,6 +356,14 @@ section h3.section-subheading {
 .service-heading {
     margin: 15px 0;
     text-transform: none;
+}
+
+#services .row.content {
+    margin-bottom: 50px;
+}
+
+#pricing {
+  display: none;
 }
 
 #portfolio .portfolio-item {
