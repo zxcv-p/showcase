@@ -1,6 +1,6 @@
 ---
 title: settings
-display-portfolio: false
+display-portfolio: true
 display-clients: true
 ---
 
