@@ -679,7 +679,7 @@ aside.clients img {
     margin: 50px auto;
 }
 
-`section#contact` {
+section#contact {
     background-color: #222;
     background-image: url('{{ site.baseurl }}{{ site.settings.first.contact-bg }}');
     background-position: center;
