@@ -1,8 +1,6 @@
 ---
-title: Responsive Design
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam
-  architecto quo inventore harum ex magni, dicta impedit.
+title: Intégrons votre identité
+description: Nous développerons un design en accord avec votre identité graphique.
 image: /img/uploads/01pp000-012c.png
 order: 2
 ---
