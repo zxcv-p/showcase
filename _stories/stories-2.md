@@ -1,6 +1,6 @@
 ---
 title-date: 2017-2018
-title: une vision partagée
+title: Début de notre collaboration.
 description: >-
   Nous nous sommes rencontrés autour de valeurs communes. Nous composions tous
   deux des architectures qui ont développés nos aptitudes à organiser,
