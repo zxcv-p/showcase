@@ -78,6 +78,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
       - {label: "Description", name: "description", widget: "string", tagname: "h2"}
       - {label: "Image", name: "image", widget: "image"}
+      - {label: "Order", name: "order", widget: "number", valueType: "int", default: 1}
 
   - name: "stories" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Stories" # Used in the UI, ie.: "New Post"
