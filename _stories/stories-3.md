@@ -1,7 +1,8 @@
 ---
-title-date: December 2012
-title: Transition to Full Service
-description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!'
+title-date: '2019'
+title: création de ACLIBE
+description: ....
 order: 3
-image: /img/uploads/story-3.jpg
+image: /img/uploads/01pp000-033.png
 ---
+
