@@ -77,13 +77,7 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
       - {label: "Description", name: "description", widget: "string", tagname: "h2"}
-      - label: "Icon"
-        name: "icon"
-        widget: "select"
-        options:
-          - { label: "Shopping Cart", value: "shopping-cart" }
-          - { label: "Laptop", value: "laptop" }
-          - { label: "Lock", value: "lock" }
+      - {label: "Image", name: "image", widget: "image"}
 
   - name: "stories" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Stories" # Used in the UI, ie.: "New Post"
