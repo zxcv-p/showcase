@@ -1,6 +1,6 @@
 ---
 name: Pierre
-position: développement Web
+position: développement web
 order: 2
 pic: /img/uploads/01pp000-042c.png
 social:
