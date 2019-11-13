@@ -1,8 +1,8 @@
 ---
-title: Web Security
+title: Suivi et accompagnement
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam
-  architecto quo inventore harum ex magni, dicta impedit.
+  Nous vous accompagnerons dans la prise en mains des interfaces web. Nous nous
+  assurerons le suivi et la maintenance du site.
 image: /img/uploads/01pp000-013c.png
 order: 3
 ---
