@@ -1,5 +1,5 @@
 ---
-title-date: 2017-2018
+title-date: Octobre 2017
 title: Début de notre collaboration.
 description: >-
   Nous nous sommes rencontrés autour de valeurs communes. Nous composions tous
