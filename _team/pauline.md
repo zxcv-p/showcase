@@ -1,6 +1,6 @@
 ---
 name: Pauline
-position: 'design, architecture du site'
+position: Architecture / Design
 order: 1
 pic: /img/uploads/01pp000-041b.png
 social:
