@@ -1,6 +1,6 @@
 ---
 title-date: Octobre 2017
-title: Début de notre collaboration.
+title: Début de notre collaboration
 description: >-
   Nous nous sommes rencontrés autour de valeurs communes. Nous composions tous
   deux des architectures qui ont développés nos aptitudes à organiser,
