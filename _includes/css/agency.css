@@ -756,6 +756,11 @@ footer span.copyright {
     line-height: 40px;
 }
 
+footer .build-status p {
+    margin-bottom: 0px;
+}
+
+footer .build-status p,
 footer .contact {
     line-height: 40px;
 }
