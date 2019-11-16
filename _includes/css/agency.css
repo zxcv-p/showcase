@@ -296,7 +296,7 @@ header .intro-text .intro-lead-in {
     font-family: {{ site.data.template.font.secondary }};
     font-size: 22px;
     font-style: italic;
-    line-height: 22px;
+    line-height: 26px;
 }
 
 header .intro-text .intro-heading {
@@ -319,7 +319,7 @@ header .intro-text .intro-heading {
         font-family: {{ site.data.template.font.secondary }};
         font-size: 40px;
         font-style: italic;
-        line-height: 40px;
+        line-height: 50px;
     }
 
     header .intro-text .intro-heading {
