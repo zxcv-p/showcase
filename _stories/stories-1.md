@@ -1,5 +1,5 @@
 ---
-title-date: ...2017
+title-date: ... 2017
 title: Architecture vs Programmation
 description: >-
   Avant de se rencontrer, nous travaillions dans des domaines singulièrement
