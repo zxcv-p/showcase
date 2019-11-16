@@ -1,6 +1,7 @@
 ---
 name: Pierre
-position: Développement web
+position: Développement Web
 order: 2
 pic: /img/uploads/01pp000-042c.png
 ---
+
