@@ -4,4 +4,6 @@ title: Architecture vs Programmation
 order: 1
 image: /img/uploads/01pp000-031.png
 ---
-**Test** Test
+Avant de se rencontrer, nous travaillions dans des domaines singulièrement
+complémentaires : _Pauline dans l'**Architecture**_ / _Pierre dans la
+**Programmation**_.
