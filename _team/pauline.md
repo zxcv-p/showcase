@@ -2,6 +2,6 @@
 name: Pauline
 position: Architecture / Design
 order: 1
-pic: /img/uploads/01pp000-041e.png
+pic: /img/uploads/01pp000-041f.png
 ---
 
