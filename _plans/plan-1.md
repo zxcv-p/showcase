@@ -5,13 +5,15 @@ order: 1
 color: gray
 ---
 **Accompagnement**  
+
 * Création, design et déploiement du site
 * Nom de domaine
 * Maintenance
 
-___
+<hr />
 
 **Forfait #1**
+
 * Afficher des infos statiques
 * Modifier infos statiques
 * Contacter le client
