@@ -12,7 +12,7 @@
                 {% for service in services %}
                 <div class="col-md-4">
                     <span class="fa-stack fa-5x">
-                        <img src="{{ service.image }}" class="img-responsive" alt="">
+                        <img src="{{ service.image }}" class="img-fluid" alt="">
                     </span>
                     <h4 class="service-heading">{{ service.title }}</h4>
                     <p class="text-muted">{{ service.content }}</p>
@@ -20,7 +20,9 @@
                 {% endfor %}
             </div>
             <div class="row text-center">
-                <a href="#plans" id="btn-display-plans" class="page-scroll btn btn-xl">C'est parti !</a>
+                <div class="col">
+                    <a href="#plans" id="btn-display-plans" class="page-scroll btn btn-xl">C'est parti !</a>
+                </div>
             </div>
         </div>
     </section>

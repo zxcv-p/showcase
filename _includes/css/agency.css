@@ -178,42 +178,42 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fff;
 }
 
-.navbar-default {
+.navbar-dark {
     border-color: transparent;
     background-color: #222;
 }
 
-.navbar-default .navbar-brand {
+.navbar-dark .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
 }
 
-.navbar-default .navbar-brand:hover,
-.navbar-default .navbar-brand:focus,
-.navbar-default .navbar-brand:active,
-.navbar-default .navbar-brand.active {
+.navbar-dark .navbar-brand:hover,
+.navbar-dark .navbar-brand:focus,
+.navbar-dark .navbar-brand:active,
+.navbar-dark .navbar-brand.active {
     color: #{{ site.data.template.color.secondary }};
 }
 
-.navbar-default .navbar-collapse {
+.navbar-dark .navbar-collapse {
     border-color: rgba(255,255,255,.02);
 }
 
-.navbar-default .navbar-toggle {
+.navbar-dark .navbar-toggler {
     border-color: #{{ site.data.template.color.primary }};
     background-color: #{{ site.data.template.color.primary }};
 }
 
-.navbar-default .navbar-toggle .icon-bar {
+.navbar-dark .navbar-toggler .icon-bar {
     background-color: #fff;
 }
 
-.navbar-default .navbar-toggle:hover,
-.navbar-default .navbar-toggle:focus {
+.navbar-dark .navbar-toggler:hover,
+.navbar-dark .navbar-toggler:focus {
     background-color: #{{ site.data.template.color.primary }};
 }
 
-.navbar-default .nav li a {
+.navbar-dark .nav li a {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 400;
@@ -224,30 +224,30 @@ fieldset[disabled] .btn-xl.active {
     transition: all ease .35s;
 }
 
-.navbar-default .nav li a:hover,
-.navbar-default .nav li a:focus {
+.navbar-dark .nav li a:hover,
+.navbar-dark .nav li a:focus {
     outline: 0;
     color: #{{ site.data.template.color.primary }};
 }
 
-.navbar-default .navbar-nav>.active>a {
+.navbar-dark .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
 }
 
-.navbar-default .navbar-nav>.active>a:hover,
-.navbar-default .navbar-nav>.active>a:focus {
+.navbar-dark .navbar-nav>.active>a:hover,
+.navbar-dark .navbar-nav>.active>a:focus {
     color: #fff;
     background-color: #{{ site.data.template.color.secondary }};
 }
 
-.navbar-default .navbar-brand .navbar-logo {
+.navbar-dark .navbar-brand .navbar-logo {
     margin-top: -8px;
 }
 
 @media(min-width:768px) {
-    .navbar-default {
+    .navbar-dark {
         padding: 25px 0;
         border: 0;
         background-color: transparent;
@@ -256,18 +256,18 @@ fieldset[disabled] .btn-xl.active {
         transition: padding .3s;
     }
 
-    .navbar-default .navbar-brand {
+    .navbar-dark .navbar-brand {
         font-size: 2em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
     }
 
-    .navbar-default .navbar-nav>.active>a {
+    .navbar-dark .navbar-nav>.active>a {
         border-radius: 3px;
     }
 
-    .navbar-default.navbar-shrink {
+    .navbar-dark.navbar-shrink {
         padding: 10px 0;
         background-color: #222;
     }
@@ -386,7 +386,7 @@ section h3.section-subheading {
 }
 
 #plans {
-  display: none;
+  display: block;
 }
 
 #plans .row.content div.item img {
@@ -397,9 +397,9 @@ section h3.section-subheading {
 }
 
 #plans .row.content div.item div.text-box {
+  position: relative;
   padding: 25px;
   border-radius: 10px;
-  margin: 0 40px;
 }
 
 #plans .row.content div.item div.text-box div.text {
@@ -415,7 +415,7 @@ section h3.section-subheading {
   color: rgba(255,255,255,0.7);
   font-size: 4em;
   z-index: 0;
-  margin-right: 55px;
+  margin-right: 5px;
   padding-right: 30px;
   margin-bottom: 0px;
 }
