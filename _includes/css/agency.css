@@ -386,7 +386,7 @@ section h3.section-subheading {
 }
 
 #plans {
-  display: none;
+  display: block;
 }
 
 #plans .row.content div.item img {
@@ -408,16 +408,16 @@ section h3.section-subheading {
 }
 
 #plans .row.content div.item div.text-box p.title {
-  position:absolute;
-  bottom:0;
-  right:0;
-  font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-  color: rgba(255,255,255,0.7);
-  font-size: 4em;
-  z-index: 0;
-  margin-right: 55px;
-  padding-right: 30px;
-  margin-bottom: 0px;
+    position:absolute;
+    bottom:0;
+    right:0;
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    color: rgba(255,255,255,0.7);
+    font-size: 4em;
+    z-index: 0;
+    margin-right: 55px;
+    padding-right: 30px;
+    margin-bottom: 0px;
 }
 
 #plans .row.content div.gray {
@@ -430,6 +430,17 @@ section h3.section-subheading {
 
 #plans .row.content div.orange {
   background-color: #FDDF84;
+}
+
+@media(min-width:767px) {
+    #plans .row.content div.item div.text-box {
+        margin: 0;
+    }
+
+    #plans .row.content div.item div.text-box p.title {
+        margin-right: 15px;
+        padding-right: 30px;
+    }
 }
 
 #portfolio .portfolio-item {
