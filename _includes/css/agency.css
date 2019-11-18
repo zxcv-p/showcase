@@ -386,7 +386,7 @@ section h3.section-subheading {
 }
 
 #plans {
-  display: block;
+  display: none;
 }
 
 #plans .row.content div.item img {
