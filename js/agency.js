@@ -36,7 +36,7 @@ $('div.modal').on('show.bs.modal', function() {
 	}
 });
 
-// Display pricing Section
-$('#btn-display-pricing').click(function() {
-	$("#pricing").slideDown(400, 'easeInOutExpo');
+// Display plans Section
+$('#btn-display-plans').click(function() {
+	$("#plans").slideDown(400, 'easeInOutExpo');
 });

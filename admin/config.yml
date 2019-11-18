@@ -81,6 +81,26 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Order", name: "order", widget: "number", valueType: "int", default: 1}
 
+  - name: "plans" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Plans" # Used in the UI, ie.: "New Post"
+    folder: "_plans" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}"
+    summary: "{{order}} - {{name}}"
+    fields: # The fields each document in this collection have
+      - {label: "Title (must be unique)", name: "title", widget: "string"}
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Order", name: "order", widget: "number", valueType: "int", default: 1}
+      - label: "Color"
+        name: "color"
+        widget: "select"
+        options:
+          - { label: "Gray", value: "gray" }
+          - { label: "Yellow", value: "yellow" }
+          - { label: "Orange", value: "orange" }
+      - {label: "Description", name: "body", widget: "markdown"}
+
   - name: "stories" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Stories" # Used in the UI, ie.: "New Post"
     folder: "_stories" # The path to the folder where the documents are stored

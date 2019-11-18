@@ -11,6 +11,7 @@ collections:
   - settings
   - team
   - services
+  - plans
   - stories
 
 # Postal address (add as many lines as necessary)

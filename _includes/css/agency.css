@@ -385,8 +385,51 @@ section h3.section-subheading {
     margin-bottom: 50px;
 }
 
-#pricing {
-  display: none;
+#plans {
+  display: block;
+}
+
+#plans .row.content div.item img {
+  display: block;
+  margin: auto;
+  width: 200px;
+  height: 200px;
+}
+
+#plans .row.content div.item div.text {
+  padding: 25px;
+  border-radius: 10px;
+  margin: 0 40px;
+}
+
+#plans .row.content div.item div.text p {
+  z-index: 10;
+    position:sticky;
+}
+
+#plans .row.content div.item div.text p.title {
+  position:absolute;
+  bottom:0;
+  right:0;
+  font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+  font-size: 4em;
+  color: white;
+  z-index: 0;
+  margin-right: 55px;
+  padding-right: 30px;
+  margin-bottom: 0px;
+}
+
+#plans .row.content div.gray {
+  background-color: #DBD3C2;
+}
+
+#plans .row.content div.yellow {
+  background-color: #FEE36A;
+}
+
+#plans .row.content div.orange {
+  background-color: #FDDF84;
 }
 
 #portfolio .portfolio-item {
