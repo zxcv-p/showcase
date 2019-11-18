@@ -412,8 +412,8 @@ section h3.section-subheading {
   bottom:0;
   right:0;
   font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+  color: rgba(255,255,255,0.7);
   font-size: 4em;
-  color: white;
   z-index: 0;
   margin-right: 55px;
   padding-right: 30px;
