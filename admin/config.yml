@@ -88,7 +88,6 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{slug}}"
     summary: "{{order}} - {{name}}"
     fields: # The fields each document in this collection have
-      - {label: "Title (must be unique)", name: "title", widget: "string"}
       - {label: "Name", name: "name", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Order", name: "order", widget: "number", valueType: "int", default: 1}
