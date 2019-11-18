@@ -1,14 +1,15 @@
 ---
+name: '#1'
+image: /img/uploads/plan-1.png
 order: 1
 color: gray
-image: /img/uploads/plan-1.png
-name: '#1'
 ---
-Accompagnement  
-Création, design et déploiement du site  
-Nom de domaine  
-Maintenance
-
-Afficher des infos statiques  
-Modifier infos statiques  
-Contacter le client
+**Accompagnement**  
+* Création, design et déploiement du site
+* Nom de domaine
+* Maintenance
+---
+**Forfait #1**
+* Afficher des infos statiques
+* Modifier infos statiques
+* Contacter le client
