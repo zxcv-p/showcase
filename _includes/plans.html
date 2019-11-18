@@ -15,9 +15,11 @@
                 {% for plan in plans %}
                 <div class="col-sm-4 item">
                   <img src="{{ plan.image }}" alt="plan image">
-                  <div class="text {{ plan.color }}">
+                  <div class="text-box {{ plan.color }}">
                     <p class="title">{{ plan.name }}</p>
-                    {{ plan.content }}
+                    <div class="text">
+                      {{ plan.content }}
+                    </div>
                   </div>
                 </div>
                 {% endfor %}

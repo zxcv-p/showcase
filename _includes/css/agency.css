@@ -396,18 +396,18 @@ section h3.section-subheading {
   height: 200px;
 }
 
-#plans .row.content div.item div.text {
+#plans .row.content div.item div.text-box {
   padding: 25px;
   border-radius: 10px;
   margin: 0 40px;
 }
 
-#plans .row.content div.item div.text p {
-  z-index: 10;
+#plans .row.content div.item div.text-box div.text {
+    z-index: 10;
     position:sticky;
 }
 
-#plans .row.content div.item div.text p.title {
+#plans .row.content div.item div.text-box p.title {
   position:absolute;
   bottom:0;
   right:0;
