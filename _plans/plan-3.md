@@ -20,7 +20,8 @@ color: orange
 <hr />
 
 **Forfait #2**
-* Contenu dynamique (Blog / Agenda / Post)
+* Contenu dynamique  
+  (Blog / Agenda / Post)
 * Recherche
 * (Paiement en ligne ?)
 
