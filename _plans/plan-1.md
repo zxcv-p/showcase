@@ -4,15 +4,11 @@ image: /img/uploads/plan-1.png
 order: 1
 color: gray
 ---
-> Accompagnement
+**Accompagnement**
 
-```
-Accompagnement
-```
-
-* Création, design et déploiement du site
-* Nom de domaine
-* Maintenance
+> - Création, design et déploiement du site  
+> - Nom de domaine  
+> - Maintenance
 
 <hr />
 
