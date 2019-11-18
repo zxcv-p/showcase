@@ -77,7 +77,7 @@ collections: # A list of collections the CMS should be able to edit
     summary: "{{order}} - {{title}}"
     fields: # The fields each document in this collection have
       - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Description", name: "body", widget: "string", tagname: "h2"}
+      - {label: "Description", name: "body", widget: "markdown"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Order", name: "order", widget: "number", valueType: "int", default: 1}
 
