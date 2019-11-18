@@ -8,9 +8,6 @@
                 </div>
             </div>
             <div class="row content">
-                <img src="/img/uploads/plan.png" alt="head plan image">
-            </div>
-            <div class="row content">
                 {% assign plans = site.plans | sort: 'order' %}
                 {% for plan in plans %}
                 <div class="col-sm-4 item">
