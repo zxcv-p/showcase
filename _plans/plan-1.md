@@ -6,11 +6,9 @@ color: gray
 ---
 **Accompagnement**
 
-> Création, design et déploiement du site  
-
-> Nom de domaine  
-
-> Maintenance
+* Création, design et déploiement du site
+* Nom de domaine
+* Maintenance
 
 <hr />
 
