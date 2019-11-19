@@ -4,7 +4,6 @@ image: /img/uploads/01pp000-024b.png
 order: 3
 color: orange
 ---
-
 ## **Forfait sur mesure #**
 
 <hr />
@@ -24,11 +23,12 @@ color: orange
 * Afficher des infos statiques
 * Modifier infos statiques
 * Contacter le client
-* Contenu dynamique  
+* Contenu dynamique\
   (Blog / Agenda / Post)
 * Recherche
 * Paiement en ligne  
-* **Contactez-nous,**  
-**pour composer avec nous**  
-**les fonctionnalités dont**  
+
+**Contactez-nous,**\
+**pour composer avec nous**\
+**les fonctionnalités dont**\
 **vous avez besoin.**
