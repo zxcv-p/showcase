@@ -21,6 +21,6 @@ color: gray
 
 **Fonctionnalités du site web :**
 
-* Visibilisation de votre identité
+* Affichage de votre communication virtuelle
 * Modification du contenu
 * Formulaire de contact
