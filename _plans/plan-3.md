@@ -4,6 +4,14 @@ image: /img/uploads/01pp000-024b.png
 order: 3
 color: orange
 ---
+****
+
+**Forfait sur mesure #**
+
+<hr />
+
+<hr />
+
 **Accompagnement**  
 
 * Création, design et déploiement du site
@@ -12,23 +20,16 @@ color: orange
 
 <hr />
 
+**Fonctionnalités du site web**
+
 * Afficher des infos statiques
 * Modifier infos statiques
 * Contacter le client
-
-<hr />
-
-* Contenu dynamique\
+* Contenu dynamique  
   (Blog / Agenda / Post)
 * Recherche
 * (Paiement en ligne ?)
-
-<hr />
-
-**Contactez-nous,** 
-
-**pour composer avec nous** 
-
-**les fonctionnalités dont** 
-
+* **Contactez-nous,**  
+**pour composer avec nous**  
+**les fonctionnalités dont**  
 **vous avez besoin.**
