@@ -1,17 +1,31 @@
   <footer>
         <div class="container">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-offset-1 col-md-3">
                     <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
-                </div>
-                <div class="col-md-4">
-                  <span class="build-status">
-                    {{ '![Netlify Status](https://api.netlify.com/api/v1/badges/577b0e8d-ba58-4214-9d37-75d6a7b5f18d/deploy-status)' | markdownify }}
-                  </span>
                 </div>
                 <div class="col-md-4">
                     <a class="contact" href="mailto:aclibe@gmail.com"><i class="fa fa-envelope"></i> {{ site.email }}</a>
                 </div>
+                <div class="col-md-3">
+                  <span class="build-status">
+                    {{ '![Netlify Status](https://api.netlify.com/api/v1/badges/577b0e8d-ba58-4214-9d37-75d6a7b5f18d/deploy-status)' | markdownify }}
+                  </span>
+                </div>
             </div>
+                <div class="row tools">
+                    <div class="col-md-offset-3 col-md-2">
+                        Propulsé par <br>
+                        <img src="/img/uploads/logo-jekyll.png" alt="Jekyll Logo">
+                    </div>
+                    <div class="col-md-2">
+                        Hébergé sur <br>
+                        <img src="/img/uploads/logo-github.png" alt="Jekyll Logo">
+                    </div>
+                    <div class="col-md-2">
+                        Délivré grâce à <br>
+                        <img src="/img/uploads/logo-netlify.svg" alt="Jekyll Logo">
+                    </div>
+                </div>
         </div>
     </footer>

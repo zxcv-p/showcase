@@ -803,6 +803,15 @@ footer {
     text-align: center;
 }
 
+footer .row.tools {
+    font-family: {{ site.data.template.font.primary }};
+    margin-top: 25px;
+}
+
+footer .row.tools img {
+    max-height: 50px;
+}
+
 footer span.copyright {
     text-transform: uppercase;
     text-transform: none;
