@@ -13,16 +13,17 @@ color: yellow
 **Accompagnement**
 
 * Création, design et déploiement du site
+* Hebergement sécurisé
 * Nom de domaine
 * Maintenance
 
 <hr />
 
-**Fonctionnalités du site web** 
+**Fonctionnalités du site web :**
 
-* Afficher des infos statiques
-* Modifier infos statiques
-* Contacter le client
+* Affichage de votre communication virtuelle
+* Modification du contenu
+* Formulaire de contact
 * Contenu dynamique\
   (Blog / Agenda / Post)
 * Recherche
