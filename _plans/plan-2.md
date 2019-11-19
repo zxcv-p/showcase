@@ -12,15 +12,12 @@ color: yellow
 
 <hr />
 
-**Forfait #1**
+**Fonctionnalités du forfait #2**
+
 * Afficher des infos statiques
 * Modifier infos statiques
 * Contacter le client
-
-<hr />
-
-**Forfait #2**
-* Contenu dynamique  
+* Contenu dynamique\
   (Blog / Agenda / Post)
 * Recherche
 * (Paiement en ligne ?)
