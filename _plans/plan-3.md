@@ -25,4 +25,10 @@ color: orange
 
 <hr />
 
-**Contactez-nous, pour composer avec nous les fonctionnalités dont vous avez besoin.**
+**Contactez-nous,** 
+
+**pour composer avec nous** 
+
+**les fonctionnalités dont** 
+
+**vous avez besoin.**
