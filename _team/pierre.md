@@ -6,7 +6,9 @@ pic: /img/uploads/01pp000-042e.png
 ---
 _
 
-**_« Seul, on va plus vite.  
+**_« Tout seul, on va plus vite.  
 Ensemble, on va plus loin. »_**
+
+Proverbe africain
 
 _
