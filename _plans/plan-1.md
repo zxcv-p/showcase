@@ -13,6 +13,7 @@ color: gray
 **Accompagnement**
 
 * Création, design et déploiement du site
+* Hebergement sécurisé
 * Nom de domaine
 * Maintenance
 
