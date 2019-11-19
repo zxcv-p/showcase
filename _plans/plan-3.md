@@ -28,7 +28,7 @@ color: orange
 * Contenu dynamique  
   (Blog / Agenda / Post)
 * Recherche
-* (Paiement en ligne ?)
+* Paiement en ligne
 * **Contactez-nous,**  
 **pour composer avec nous**  
 **les fonctionnalités dont**  
