@@ -6,9 +6,8 @@ pic: /img/uploads/01pp000-042e.png
 ---
 _
 
-**_« Tout seul, on va plus vite.  
-Ensemble, on va plus loin. »_**
+_**« L'ouverture d'esprit n'est pas une fracture du crâne. »**_
 
-Proverbe africain
+_Pierre Desproges_
 
 _
