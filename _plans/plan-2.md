@@ -4,15 +4,19 @@ image: /img/uploads/plan-2.png
 order: 2
 color: yellow
 ---
-**Accompagnement**  
+ **Forfait #1**
+
+<hr />
+
+<hr />
+
+**Accompagnement**
 
 * Création, design et déploiement du site
 * Nom de domaine
 * Maintenance
 
 <hr />
-
-**Forfait #2**  
 
 **Fonctionnalités du site web** 
 
