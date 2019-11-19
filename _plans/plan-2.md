@@ -4,7 +4,7 @@ image: /img/uploads/plan-2.png
 order: 2
 color: yellow
 ---
- **Forfait #2**
+## **Forfait #2**
 
 <hr />
 
