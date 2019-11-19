@@ -4,6 +4,12 @@ image: /img/uploads/plan-1.png
 order: 1
 color: gray
 ---
+ **Forfait #1**
+
+<hr />
+
+<hr />
+
 **Accompagnement**
 
 * Création, design et déploiement du site
@@ -12,7 +18,7 @@ color: gray
 
 <hr />
 
-**Fonctionnalités du forfait #1**
+**Fonctionnalités du site web :**
 
 * Afficher des infos statiques
 * Modifier infos statiques
