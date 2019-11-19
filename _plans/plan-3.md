@@ -26,6 +26,7 @@ color: orange
 * Formulaire de contact
 * Publication de posts / évènements (Blogging)
 * Interface de recherche
+* …
 
 **Contactez-nous,**  
 **pour composer avec nous**  
