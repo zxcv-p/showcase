@@ -28,7 +28,7 @@ color: orange
 * Recherche
 * Paiement en ligne  
 
-**Contactez-nous,**\
-**pour composer avec nous**\
-**les fonctionnalités dont**\
+**Contactez-nous,**  
+**pour composer avec nous**  
+**les fonctionnalités dont**  
 **vous avez besoin.**
