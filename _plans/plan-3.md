@@ -10,25 +10,24 @@ color: orange
 
 <hr />
 
-**Accompagnement**  
+**Accompagnement**
 
 * Création, design et déploiement du site
+* Hebergement sécurisé
 * Nom de domaine
 * Maintenance
 
 <hr />
 
-**Fonctionnalités du site web**
+**Fonctionnalités du site web :**
 
-* Afficher des infos statiques
-* Modifier infos statiques
-* Contacter le client
-* Contenu dynamique\
-  (Blog / Agenda / Post)
-* Recherche
-* Paiement en ligne  
+* Affichage de votre communication virtuelle
+* Modification du contenu
+* Formulaire de contact
+* Publication de posts / évènements (Blogging)
+* Interface de recherche
 
 **Contactez-nous,**  
 **pour composer avec nous**  
-**les fonctionnalités dont**  
-**vous avez besoin.**
+**les fonctionnalités**  
+**dont vous avez besoin.**
