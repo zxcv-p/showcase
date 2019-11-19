@@ -12,7 +12,9 @@ color: yellow
 
 <hr />
 
-**Fonctionnalités du forfait #2**
+**Forfait #2**  
+
+**Fonctionnalités du site web** 
 
 * Afficher des infos statiques
 * Modifier infos statiques
