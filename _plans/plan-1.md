@@ -20,6 +20,6 @@ color: gray
 
 **Fonctionnalités du site web :**
 
-* Afficher des infos statiques
-* Modifier infos statiques
+* Visibilisation de votre identité
+* Modification du contenu
 * Formulaire de contact
