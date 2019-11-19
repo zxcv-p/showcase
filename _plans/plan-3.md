@@ -1,6 +1,6 @@
 ---
 name: '#'
-image: /img/uploads/plan-3.png
+image: /img/uploads/01pp000-024b.png
 order: 3
 color: orange
 ---
@@ -12,22 +12,17 @@ color: orange
 
 <hr />
 
-**Forfait #1**
 * Afficher des infos statiques
 * Modifier infos statiques
 * Contacter le client
 
 <hr />
 
-**Forfait #2**
-* Contenu dynamique  
+* Contenu dynamique\
   (Blog / Agenda / Post)
 * Recherche
 * (Paiement en ligne ?)
 
 <hr />
 
-**Forfait #3**
-
-Sur mesure ?  
-Contactez nous !
+**Contactez-nous, pour composer avec nous les fonctionnalités dont vous avez besoin.**
