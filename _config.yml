@@ -4,7 +4,7 @@ baseurl:
 # Site settings
 title: Aclibe
 email: aclibe.lyon@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Aclibe, Lyon. Création, design et maintenance de site web sur Lyon. On vous propose une solution simple, efficace et de proximité."
 
 # Collections
 collections:
