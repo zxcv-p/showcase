@@ -20,4 +20,4 @@ color: yellow
 * Contenu dynamique\
   (Blog / Agenda / Post)
 * Recherche
-* (Paiement en ligne ?)
+* Paiement en ligne
