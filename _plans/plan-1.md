@@ -22,4 +22,4 @@ color: gray
 
 * Afficher des infos statiques
 * Modifier infos statiques
-* Contacter le client
+* Formulaire de contact
