@@ -24,7 +24,5 @@ color: yellow
 * Affichage de votre communication virtuelle
 * Modification du contenu
 * Formulaire de contact
-* Contenu dynamique\
-  (Blog / Agenda / Post)
-* Recherche
-* Paiement en ligne
+* Publication de posts / évènements (Blogging)
+* Interface de recherche
