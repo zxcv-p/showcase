@@ -16,8 +16,8 @@ collections:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Cordeliers
+  - line: Lyon, 69002
 
 # Build settings
 markdown: kramdown
