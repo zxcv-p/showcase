@@ -12,7 +12,7 @@ color: gray
 
 <hr />
 
-**Forfait #1**
+**Fonctionnalités du forfait #1**
 
 * Afficher des infos statiques
 * Modifier infos statiques
