@@ -1,10 +1,13 @@
 url: https://aclibe.com
 baseurl:
 
-# Site settings
+# Site settings & SEO
 title: Aclibe
-email: aclibe.lyon@gmail.com
 description: "Création, design et maintenance de site web sur Lyon. On vous propose une solution simple, efficace et de proximité."
+email: aclibe.lyon@gmail.com
+author: Pauline & Pierre
+logo: /img/uploads/logo_120.png
+google_site_verification: "Rio2fbdGxMZ-6oUwuUu4Co5F1cY54YQi4TNQ-XKSi5s"
 
 # Collections
 collections:
