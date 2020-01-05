@@ -4,7 +4,7 @@ baseurl:
 # Site settings
 title: Aclibe
 email: aclibe.lyon@gmail.com
-description: "Aclibe, Lyon. Création, design et maintenance de site web sur Lyon. On vous propose une solution simple, efficace et de proximité."
+description: "Création, design et maintenance de site web sur Lyon. On vous propose une solution simple, efficace et de proximité."
 
 # Collections
 collections:
@@ -22,3 +22,6 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
